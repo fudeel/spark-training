@@ -1,0 +1,2 @@
+path,name,size
+dbfs:/databricks-datasets/adult/adult.data,adult.data,3974305
